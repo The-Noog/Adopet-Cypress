@@ -1,0 +1,14 @@
+{
+    "usuarios": [
+        {
+            "name": "Peter Quil",
+            "email": "pedro@alura.com",
+            "password": "Senha123"
+        },
+        {
+            "name": "Pamela Soares",
+            "email": "pamela@alura.com",
+            "password": "Senha123"
+        }
+    ]
+}
